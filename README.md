@@ -56,7 +56,6 @@ app
 
 ---
 
-
 ### 🛠️  Tech Stack
 ​Language: Kotlin / Java
 ​Database: Room Database (SQLite)
@@ -66,6 +65,7 @@ app
 ---
 
 ###  ​📸 Screenshots
+
 ​<table>
 <tr>
 <td align="center"><b>App Icon / Launcher</b></td>
@@ -96,6 +96,7 @@ app
 ---
 
 ### ​🎨 UI & Design
+
 ​Intuitive Design Layout: Crafted with focus on high readability, quick information access, and minimal user cognitive load.
 ​Responsive Interactions: Seamless transition animations and touch feedback built using standard material components.
 ​Theme Adaptability: Full configuration implemented for dynamic Dark and Light interface styling.
@@ -103,9 +104,11 @@ app
 ---
 
 ### ​⚠️ Challenges & Solutions
+
 ​❌ Challenge
 ​Local Data Persistence and Race Conditions: Managing offline note creation concurrently with safe database commits across background threads without UI locking.
 ​State Management During Reconfiguration: Preventing data loss or empty layout flashes when switching themes or rotating device layouts.
+
 ​🔄 Solution
 ​Thread-Safe Architecture: Implemented standard asynchronous data management principles using Kotlin Coroutines / Background Schedulers.
 ​Reactive Layout Lifecycle Management: Utilized persistent operational patterns (like ViewModels / LiveData) to decouple internal data storage from volatile visual elements.
@@ -114,6 +117,7 @@ app
 ---
 
 ### ​📝 Session
+
 ​Development Timeline: Designed and executed over an intensive short-term project sprint.
 ​Core Focus: Building a production-ready repository highlighting modular architecture.
 ​Testing Phase: Covered localized device scenarios to secure database stability.
@@ -122,12 +126,15 @@ app
 ---
 
 ### ​🍊 Highlights
+
 ​Architecture Alignment: Successfully isolated business logic from UI frameworks.
 ​Fluid Performance: Optimized local lookups to keep execution under 100ms.
 ​Extensibility: Built with clear interfaces to allow easy addition of future features.
 
 ---
+
 ### ​🧠 What I Learned
+
 ​Deepened understanding of data caching rules using local relational databases.
 ​Mastered tracking layout persistence across standard system state reconfigurations.
 ​Learned how to manage thread pools efficiently using background asynchronous handling.
@@ -137,5 +144,10 @@ app
 ---
 
 ### ​⚙️ Setup Instructions
+
 git clone [https://github.com](https://github.com)
 Open the project: Launch Android Studio and select Open an Existing Project, then pick this directory.
+Sync and Run: Wait for the Gradle build files to sync completely, select an emulator or physical device, and press the Run button.
+
+---
+
