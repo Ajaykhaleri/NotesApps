@@ -151,3 +151,21 @@ Sync and Run: Wait for the Gradle build files to sync completely, select an emul
 
 ---
 
+### Disclaimer
+
+​This application is built solely for educational and learning purposes. The source files published here are intended to demonstrate functional development patterns. The project is completely safe, reliable, and does not retain personal information.
+
+---
+
+### ​📌 Future Improvements
+
+​Implement Cloud Synchronization: Introduce secure real-time backup across multiple devices (Firebase / AWS).
+​Add Note Categorization: Enable folder groups, tag systems, and color-coded priority labels.
+​Integrate Rich Text Editing: Allow users to use bold, italic, lists, and embedded images inside notes.
+
+---
+
+### ​📄 License
+
+​This project is open-source and available under the terms of the MIT License.
+
