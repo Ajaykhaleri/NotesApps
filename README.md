@@ -52,7 +52,7 @@ app
       ├── test
       │    └── ExampleUnitTest
       └── androidTest
-           └── ExampleInstrumentedTest
+           └── ExampleInstrumentedTest```
 
 ---
 
