@@ -63,6 +63,13 @@ app
 ### 📷 Screenshots
 
 ![Screenshots](./noteappsimage1.jpeg)
+![Screenshots](./noteappsimage2.jpeg)
+![Screenshots](./noteappsimage3.jpeg)
+![Screenshots](./noteappsimage4.jpeg)
+![Screenshots](./noteappsimage5.jpeg)
+![Screenshots](./noteappsimage6.jpeg)
+![Screenshots](./noteappsimage7.jpeg)
+
 ---
 
 ### 🎨 UI & Design
