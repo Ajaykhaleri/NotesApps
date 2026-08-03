@@ -62,13 +62,20 @@ app
 
 ### 📷 Screenshots
 
-![Screenshots](./noteappsimage1.jpeg)
-![Screenshots](./noteappsimage2.jpeg)
-![Screenshots](./noteappsimage3.jpeg)
-![Screenshots](./noteappsimage4.jpeg)
-![Screenshots](./noteappsimage5.jpeg)
-![Screenshots](./noteappsimage6.jpeg)
-![Screenshots](./noteappsimage7.jpeg)
+<table>
+  <!-- Row 1 (Images 1-3) -->
+  <tr>
+    <td><img src="noteappsimage1.jpeg" width="100%"></td>
+    <td><img src="noteappsimage2.jpeg" width="100%"></td>
+    <td><img src="noteappsimage3.jpeg" width="100%"></td>
+  </tr>
+  <!-- Row 2 (Images 4-6) -->
+  <tr>
+    <td><img src="noteappsimage4.jpeg" width="100%"></td>
+    <td><img src="noteappsimage5.jpeg" width="100%"></td>
+    <td><img src="noteappsimage6.jpeg" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
