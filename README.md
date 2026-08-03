@@ -65,8 +65,8 @@ app
 ---
 
 ###  ​📸 Screenshots
-https://github.com/Ajaykhaleri/NotesApps/blob/main/noteappsimage1.jpeg?raw=true
 
+![Screenshots](./noteappsimage1.jpeg)
 
 ---
 
