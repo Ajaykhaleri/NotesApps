@@ -29,45 +29,40 @@ This project follows **Clean Architecture** patterns to ensure clean separation 
 
 ```text
 app
- └── src
-      ├── main
-      │    ├── java
-      │    │    └── com
-      │    │         └── notesapp
-      │    │              ├── data
-      │    │              │    ├── local (Room DB, DAOs)
-      │    │              │    └── repository
-      │    │              ├── domain
-      │    │              │    ├── model
-      │    │              │    └── usecase
-      │    │              └── presentation
-      │    │                   ├── notes
-      │    │                   └── viewmodel
-      │    ├── res
-      │    │    ├── drawable
-      │    │    ├── layout
-      │    │    ├── values
-      │    │    └── xml
-      │    └── AndroidManifest.xml
-      ├── test
-      │    └── ExampleUnitTest
-      └── androidTest
-           └── ExampleInstrumentedTest```
+└── src
+    └── main
+        ├── java
+        │   └── com
+        │       └── notesapp
+        │           ├── data
+        │           │   └── local (Room DB, DAOs)
+        │           │   └── repository
+        │           ├── domain
+        │           │   └── model
+        │           │   └── usecase
+        │           └── presentation
+        │               └── notes
+        │               └── viewmodel
+        ├── res
+        │   ├── drawable
+        │   ├── layout
+        │   └── values
+        └── AndroidManifest.xml
+```
 
 ---
 
-### 🛠️  Tech Stack
-​Language: Kotlin / Java
-Database: Room Database (SQLite)
-Architecture: MVVM + Clean Architecture
-UI Components: Material Design 3 / Jetpack
+### 🛠️ Tech Stack
+* **Language:** Kotlin / Java
+* **Database:** Room Database (SQLite)
+* **Architecture:** MVVM + Clean Architecture
+* **UI Components:** Material Design 3 / Jetpack
 
 ---
 
 ### 📷 Screenshots
 
 ![Screenshots](./noteappsimage1.jpeg)
-
 ---
 
 ### 🎨 UI & Design
