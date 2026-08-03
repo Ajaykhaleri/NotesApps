@@ -58,19 +58,19 @@ app
 
 ### 🛠️  Tech Stack
 ​Language: Kotlin / Java
-​Database: Room Database (SQLite)
-​Architecture: MVVM + Clean Architecture
-​UI Components: Material Design 3 / Jetpack
+Database: Room Database (SQLite)
+Architecture: MVVM + Clean Architecture
+UI Components: Material Design 3 / Jetpack
 
 ---
 
-###  ​📸 Screenshots
+### 📷 Screenshots
 
 ![Screenshots](./noteappsimage1.jpeg)
 
 ---
 
-### ​🎨 UI & Design
+### 🎨 UI & Design
 
 ​Intuitive Design Layout: Crafted with focus on high readability, quick information access, and minimal user cognitive load.
 ​Responsive Interactions: Seamless transition animations and touch feedback built using standard material components.
