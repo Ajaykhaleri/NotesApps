@@ -66,32 +66,6 @@ app
 
 ###  ​📸 Screenshots
 
-​<table>
-<tr>
-<td align="center"><b>App Icon / Launcher</b></td>
-<td align="center"><b>Notes Home List</b></td>
-<td align="center"><b>Infinite Canvas View</b></td>
-<td align="center"><b>Canvas Zoom View</b></td>
-</tr>
-<tr>
-<td><img src="16877.jpg" width="180" /></td>
-<td><img src="16901.jpg" width="180" /></td>
-<td><img src="16883.jpg" width="180" /></td>
-<td><img src="16885.jpg" width="180" /></td>
-</tr>
-<tr>
-<td align="center"><b>Create Note</b></td>
-<td align="center"><b>Note Detail Editor</b></td>
-<td align="center"><b>Color Palette Selection</b></td>
-<td align="center"><b>Canvas Focus Mode</b></td>
-</tr>
-<tr>
-<td><img src="16887.jpg" width="180" /></td>
-<td><img src="16881.jpg" width="180" /></td>
-<td><img src="16889.jpg" width="180" /></td>
-<td><img src="16891.jpg" width="180" /></td>
-</tr>
-</table>
 
 ---
 
