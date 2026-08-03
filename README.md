@@ -65,15 +65,15 @@ app
 <table>
   <!-- Row 1 (Images 1-3) -->
   <tr>
-    <td><img src="noteappsimage1.jpeg" width="100%"></td>
-    <td><img src="noteappsimage2.jpeg" width="100%"></td>
-    <td><img src="noteappsimage3.jpeg" width="100%"></td>
+    <td><img src="noteappsimage1.jpeg" width="45%"></td>
+    <td><img src="notesappimage2.jpeg" width="45%"></td>
+    <td><img src="notesappimage3.jpeg" width="45%"></td>
   </tr>
   <!-- Row 2 (Images 4-6) -->
   <tr>
-    <td><img src="noteappsimage4.jpeg" width="100%"></td>
-    <td><img src="noteappsimage5.jpeg" width="100%"></td>
-    <td><img src="noteappsimage6.jpeg" width="100%"></td>
+    <td><img src="notesappimage4.jpeg" width="45%"></td>
+    <td><img src="notesappimage5.jpeg" width="45%"></td>
+    <td><img src="notesappimage6.jpeg" width="45%"></td>
   </tr>
 </table>
 
